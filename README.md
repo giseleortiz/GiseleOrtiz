@@ -7,5 +7,13 @@
 <h1 align="center" >Hello Welcome to my GitHub  👋 </h1> 
 </div>
 
+<div aling="center" >
+
+<p>👀 Profile Visits:</p>
+
+ <img src="https://komarev.com/ghpvc/?username=giseleortiz&color=brightgreen" alt="Profile Views">
+
+- 🔭 I’m working on [a portfolio project](https://giseleortiz.github.io).
+</div>
 
 
