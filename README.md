@@ -14,6 +14,7 @@
  <img src="https://komarev.com/ghpvc/?username=giseleortiz&color=brightgreen" alt="Profile Views">
 
 - 🔭 I’m working on [a portfolio project](https://mi-portfolio-giseleortiz.netlify.app/).
+- - [🎨 Portfolio Website](https://giseleortiz.github.io) 
 </div>
 
 
