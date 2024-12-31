@@ -13,7 +13,7 @@
 
  <img src="https://komarev.com/ghpvc/?username=giseleortiz&color=brightgreen" alt="Profile Views">
 
-- 🔭 I’m working on [a portfolio project](https://giseleortiz.github.io).
+- 🔭 I’m working on [a portfolio project](https://mi-portfolio-giseleortiz.netlify.app/).
 </div>
 
 
