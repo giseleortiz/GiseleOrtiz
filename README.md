@@ -12,9 +12,12 @@
 <p>👀 Profile Visits:</p>
 
  <img src="https://komarev.com/ghpvc/?username=giseleortiz&color=brightgreen" alt="Profile Views">
-
-- 🔭 I’m working on [a portfolio project](https://mi-portfolio-giseleortiz.netlify.app/).
-- - [🎨 Portfolio Website](https://giseleortiz.github.io) 
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://www.linkedin.com/in/gisele-ortiz-gisele-ortiz/">
+- - [🎨 Portfolio Website](https://mi-portfolio-giseleortiz.netlify.app/).
+  - ### 💬 Let's Connect
+<a href="https://www.linkedin.com/in/giseleortiz/" target="_blank">
 </div>
 
 
