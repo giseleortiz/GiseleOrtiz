@@ -12,11 +12,7 @@
 <p>👀 Profile Visits:</p>
 
  <img src="https://komarev.com/ghpvc/?username=giseleortiz&color=brightgreen" alt="Profile Views">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 
-<a href="https://www.linkedin.com/in/giseleortiz/">
+<a href="https://www.linkedin.com/in/giseleortiz/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-
-</div>
-
-
