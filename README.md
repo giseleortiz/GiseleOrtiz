@@ -33,9 +33,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=giseleortiz&show_icons=true&theme=default"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=giseleortiz&show_icons=true&theme=github_light&cache_seconds=86400"/>
 </p>
-
 ---
 
 ## 🚀 Actualmente
