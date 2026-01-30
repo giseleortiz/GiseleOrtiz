@@ -1,46 +1,64 @@
-# 👋 Hola, soy Gisele Ortiz
+<h1 align="center">Hola 👋, soy Gisele Ortiz</h1>
 
-💻 Estudiante de Sistemas | IT Junior  
-🚀 Apasionada por el desarrollo web, QA y metodologías ágiles  
-📍 Argentina  
-
----
-
-## 👩‍💻 Sobre mí
-
-Soy estudiante de Tecnicatura en Informática y Licenciatura en Sistemas en UNGS.  
-Tengo formación en Full-Stack, Back-End con Node.js y QA Testing.
-
-Me interesa desarrollarme en roles IT Junior, QA o Trainee donde pueda seguir aprendiendo y aportar valor al equipo.
+<p align="center">
+💻 Estudiante de Sistemas | IT Junior <br>
+🚀 Apasionada por el desarrollo web y QA <br>
+📍 Argentina
+</p>
 
 ---
 
-## 🛠 Tecnologías y herramientas
+## ✨ Sobre mí
 
-- JavaScript  
-- Node.js  
-- HTML5 & CSS3  
-- SQL  
-- Git & GitHub  
-- Testing QA  
-- Scrum & Kanban  
-- Trello / Jira  
+🎓 Estudiante de Tecnicatura en Informática y Licenciatura en Sistemas (UNGS)  
+📚 Formación en Full-Stack, Back-End y QA Testing  
+🤝 Experiencia en trabajo en equipo y liderazgo inicial  
+🎯 Buscando mi primera oportunidad en IT
 
 ---
 
-## 📌 Actualmente
+## 🛠 Tech Stack
 
-📚 Estudiando y capacitándome en IT  
-👩‍💻 Trabajando en proyectos personales  
-🎯 Buscando mi primera oportunidad profesional en tecnología  
+<p>
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=giseleortiz&show_icons=true&theme=default"/>
+</p>
+
+---
+
+## 🚀 Actualmente
+
+✔ Aprendiendo más sobre desarrollo y QA  
+✔ Trabajando en proyectos personales  
+✔ Buscando oportunidades IT Junior / Trainee
 
 ---
 
 ## 📫 Contacto
 
 📧 gisele.ortiz@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/giseleortiz
+🔗 https://linkedin.com/in/giseleortiz
 
 ---
 
-✨ Gracias por visitar mi perfil
+## ⚡ Fun fact
+
+Me encanta aprender tecnología y mejorar cada día 💪
+
+---
+
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</p>
