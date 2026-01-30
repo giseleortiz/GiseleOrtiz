@@ -1,16 +1,46 @@
-<div id="header" align ="center">
+# 👋 Hola, soy Gisele Ortiz
 
-  ![text](https://github.com/giseleortiz/GiseleOrtiz/assets/144640915/4f7cad3a-2654-4174-844c-6b3fc1f88299)
+💻 Estudiante de Sistemas | IT Junior  
+🚀 Apasionada por el desarrollo web, QA y metodologías ágiles  
+📍 Argentina  
 
-<h1 align="center" >Hello Welcome to my GitHub  👋 </h1> 
-</div>
+---
 
-<div aling="center" >
+## 👩‍💻 Sobre mí
 
-<p>👀 Profile Visits:</p>
+Soy estudiante de Tecnicatura en Informática y Licenciatura en Sistemas en UNGS.  
+Tengo formación en Full-Stack, Back-End con Node.js y QA Testing.
 
- <img src="https://komarev.com/ghpvc/?username=giseleortiz&color=brightgreen" alt="Profile Views">
+Me interesa desarrollarme en roles IT Junior, QA o Trainee donde pueda seguir aprendiendo y aportar valor al equipo.
 
-<a href="https://www.linkedin.com/in/giseleortiz/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+---
+
+## 🛠 Tecnologías y herramientas
+
+- JavaScript  
+- Node.js  
+- HTML5 & CSS3  
+- SQL  
+- Git & GitHub  
+- Testing QA  
+- Scrum & Kanban  
+- Trello / Jira  
+
+---
+
+## 📌 Actualmente
+
+📚 Estudiando y capacitándome en IT  
+👩‍💻 Trabajando en proyectos personales  
+🎯 Buscando mi primera oportunidad profesional en tecnología  
+
+---
+
+## 📫 Contacto
+
+📧 gisele.ortiz@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/giseleortiz
+
+---
+
+✨ Gracias por visitar mi perfil
